@@ -1,0 +1,26 @@
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\App.g.cs
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Arfoods Project\MainProject\MainProject\bin\Debug\ARFoods.exe
+M:\Arfoods Project\MainProject\MainProject\bin\Debug\ARFoods.pdb
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\ARFoods_MarkupCompile.cache
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\ARFoods.g.resources
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\ARFoods.Properties.Resources.resources
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\ARFoods.exe
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\ARFoods.pdb
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\LoginWindow.baml
+M:\Arfoods Project\MainProject\MainProject\obj\x86\Debug\LoginWindow.g.cs
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\ARFoods.exe
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\ARFoods.pdb
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\bin\Debug\ARFoods.exe
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\bin\Debug\ARFoods.pdb
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\LoginWindow.baml
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\LoginWindow.g.cs
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\App.g.cs
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\ARFoods_MarkupCompile.cache
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\ARFoods.g.resources
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\ARFoods.Properties.Resources.resources
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Arfoods Project\Git ARFoods\MainProject\MainProject\obj\x86\Debug\GenerateResource.write.1.tlog

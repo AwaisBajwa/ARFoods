@@ -1,0 +1,13 @@
+﻿<Window x:Class="ARFoods.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="350" Width="525" Foreground="{StaticResource {x:Static SystemColors.ControlBrushKey}}" FontFamily="{StaticResource {x:Static SystemFonts.SmallCaptionFontFamilyKey}}" FontWeight="Normal" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" Loaded="Window_Loaded">
+    <Grid>
+        <Image Height="Auto" HorizontalAlignment="Stretch" Margin="0" Name="image1" Stretch="Fill" VerticalAlignment="Stretch" Width="Auto" Source="/ARFoods;component/Images/img-wallpapers-red-and-green-nativetux-8779.png"  />
+        <TextBox     Text="{Binding Login.Username,Mode=TwoWay}" Height="25" HorizontalAlignment="Left" Margin="159,108,0,0" Name="usernameTextBox" VerticalAlignment="Top" Width="194" MaxLength="250" />
+        <PasswordBox  Height="25" HorizontalAlignment="Left" Margin="159,169,0,0" Name="passwordBox" VerticalAlignment="Top" Width="192" MaxLength="32" PasswordChanged="passwordBox_PasswordChanged" />
+        <Button  Command="{Binding LoginButtonCommand}" IsEnabled="{Binding IsLoginEnabled,Mode=TwoWay}" Content="Login" Height="23" HorizontalAlignment="Left" Margin="276,219,0,0" Name="loginButton" VerticalAlignment="Top" Width="75" Background="{Binding}" Foreground="{StaticResource {x:Static SystemColors.ControlBrushKey}}" FontFamily="{StaticResource {x:Static SystemFonts.SmallCaptionFontFamilyKey}}" FontWeight="Bold" FontStretch="Condensed" />
+        <Label Content="Password" Height="28" HorizontalAlignment="Left" Margin="157,142,0,0" Name="label1" VerticalAlignment="Top" Width="72" Foreground="{StaticResource {x:Static SystemColors.ControlBrushKey}}" FontFamily="{StaticResource {x:Static SystemFonts.SmallCaptionFontFamilyKey}}" FontWeight="Bold" FontStretch="Condensed" />
+        <Label Content="User Name" Height="28" HorizontalAlignment="Left" Margin="157,74,0,0" Name="label2" VerticalAlignment="Top" Width="72" Foreground="{StaticResource {x:Static SystemColors.WindowBrushKey}}" OpacityMask="{StaticResource {x:Static SystemColors.ControlBrushKey}}" FontWeight="Bold" FontFamily="{StaticResource {x:Static SystemFonts.SmallCaptionFontFamilyKey}}" FontStretch="Condensed" />
+    </Grid>
+</Window>
